@@ -25,11 +25,5 @@ Or use docker-compose:
 - Outputs provided by the UI: `output_btp_mtp_allocation.csv` and `fac_preference_count.csv` (downloadable from the Streamlit UI).
 
 
-## Logs
-The app writes logs to `allocation.log` in the project root.
 
-
-## Tests
-
-Run `pytest` to run unit tests for the allocator.
 
