@@ -8,8 +8,7 @@ This Streamlit app implements the allocation algorithm described by your instruc
 ## Run locally (without Docker)
 1. python -m venv venv
 2. source venv/bin/activate # Windows: venv\Scripts\activate
-3. pip install -r requirements.txt
-4. streamlit run app.py
+3. streamlit run app.py
 
 
 ## Run with Docker
@@ -33,3 +32,4 @@ The app writes logs to `allocation.log` in the project root.
 ## Tests
 
 Run `pytest` to run unit tests for the allocator.
+
