@@ -1,4 +1,4 @@
-# Assignment 2 — BTP/MTP Allocation App
+# Assignment 2 — Automatic Faculty–Student Allocation System
 
 
 ## Overview
@@ -31,4 +31,5 @@ The app writes logs to `allocation.log` in the project root.
 
 
 ## Tests
+
 Run `pytest` to run unit tests for the allocator.
